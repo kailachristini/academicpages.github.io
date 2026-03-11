@@ -4,7 +4,7 @@ title: "Kaila Christini"
 permalink: /
 ---
 
-# Kaila Christini, MPH
+# Kaila Christini, MsPH, MS
 **Cancer Prevention Researcher**
 **Program Manager | Kepka Research Lab**  
 **PhD Student | College of Nursing**  
